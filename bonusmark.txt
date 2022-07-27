@@ -1,0 +1,9 @@
+1. Have to design register now section with a modal
+2.Have to add FAQ section with valid question and answer
+  * what are the difference between grid and flex box
+  * Difference between Bootstrap and Tailwind
+  * What is CSS box model
+  * What is semantic tags
+
+3. Have to add trusted company section (this section alse be hidden in mobile display).
+4. minimum 6 commmits on github
