@@ -15,3 +15,34 @@ body{
 .text-section-bg{
     background-color: #F4FAFD;
 }
+
+
+
+
+/* Responsive */
+@media screen and (max-width:420px) {
+    .popular-course{
+        flex-direction: column;
+    }
+    .popular-course .flex-shrink-0{
+        width: 100%;
+    }
+    .course-img{
+        width:100%;
+    }
+    .padding-20-sm-display{
+        padding: 20px 0 20px 0;
+    }
+    .course-statics{
+        flex-wrap: wrap;
+    }
+    .modal-btn-div{
+        justify-content: center;
+    }
+    .student img{
+        min-width: 100%;
+    }
+    .student-info{
+        text-align: center;
+    }
+}
