@@ -70,9 +70,6 @@ section.banner .carousel-inner .banner-heading{
         line-height: inherit;
         font-size: 11px;
     }
-    .carousel-indicators{
-        display: none;
-    }
     .carousel-caption{
         margin-bottom: 0 !important;
     }
