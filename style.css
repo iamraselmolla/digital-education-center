@@ -67,7 +67,7 @@ section.banner .carousel-inner .banner-heading{
     section.banner .carousel-inner .banner-heading{
         font-size: 2.5rem;
     }
-carousel-indicators{
+.carousel-indicators{
         display: none;
     }
 .carousel-control-next, .carousel-control-prev{
