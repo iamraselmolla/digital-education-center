@@ -51,6 +51,12 @@ section.banner .carousel-inner .banner-heading{
     section.banner .carousel-inner .banner-heading{
         font-size: 2.5rem;
     }
+carousel-indicators{
+        display: none;
+    }
+.carousel-control-next, .carousel-control-prev{
+    display: none;
+}
 }
 
 @media screen and (max-width: 820px) {
@@ -61,6 +67,12 @@ section.banner .carousel-inner .banner-heading{
     section.banner .carousel-inner .banner-heading{
         font-size: 2.5rem;
     }
+carousel-indicators{
+        display: none;
+    }
+.carousel-control-next, .carousel-control-prev{
+    display: none;
+}
 }
 @media screen and (max-width:420px) {
     section.banner .carousel-inner .banner-heading{
