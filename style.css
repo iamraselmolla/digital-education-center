@@ -102,6 +102,12 @@ section.banner .carousel-inner .banner-heading{
     right: 0;
     left: 0;
 }
+.carousel-indicators{
+        display: none;
+    }
+.carousel-control-next, .carousel-control-prev{
+    display: none;
+}
 }
 
 
